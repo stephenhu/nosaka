@@ -1,2 +1,2 @@
 # nosaka
-travel helper app
+travel itinerary app
